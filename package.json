@@ -1,6 +1,7 @@
 {
   "private": true,
   "name": "personalPortfolio",
+  "homepage": "https://lambertguastavino.github.io/Portfolio/",
   "version": "1.0.0",
   "scripts": {
     "build": "react-scripts build",
