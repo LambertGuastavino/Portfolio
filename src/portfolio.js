@@ -199,6 +199,18 @@ const experience = {
       title: "Work Experience",
       experiences: [
         {
+          title: "WordPress Site",
+          company: "GeekNplay",
+          company_url: "https://www.geeknplay.fr/",
+          logo_path: "gnp.jpg",
+          duration: "Mar 2019 - Present",
+          location: "Work From Home",
+          description:
+          `My very first website made with WordPress. At that time, I knew nothing about development and had never created a website. Today, the site is in its third version and 14 volunteers are feeding it.
+          `,
+          color: "#00bf3f",
+        },
+        {
           title: "WordPress Blog",
           company: "Pryos Education",
           company_url: "https://www.pryos-education.com/",
